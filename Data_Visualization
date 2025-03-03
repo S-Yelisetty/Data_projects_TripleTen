@@ -1,0 +1,26 @@
+# 📊 Tableau Project: 
+
+## 📌 Overview  
+The superstore is in peril! You have been hired as a consultant to review the superstore’s operations and increase its profitability to avoid bankruptcy.
+
+## 📈 Dashboard Link  
+[![View Dashboard](https://img.shields.io/badge/View-Dashboard-blue)](https://public.tableau.com/views/DataVisualization-Superstore_17355712116560/Avg_ProfitvsAvg_ReturnRate?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+
+## 📂 Dataset  
+- **Source:** Superstore
+- **Description:**  
+
+## 🔍 Key Insights  
+- 📊 **Insight 1:** The two biggest profit centers are the West and East regions. The biggest loss centers are in the Central and South regions. (refer to sheet “Profit Centers”). 
+- 📉 **Insight 2:** When looking at the states and specific month we had highest average profits. We can see that Minnesota in October, Indiana in October, and Vermont in November had the highest average profits (refer to sheet “Best State/Month Avg. Profit”). Looking closer at those months in sheet “Avg. Profit” we can see that Minnesota had an average of 843, Indiana 747, and Vermont 596.    
+- 📈 **Insight 3:** When looking at the average profit vs the % average return rate we see that the preferred mode of shipping is Same day shipping followed by 2nd class. The return rate on same day shipping is 44% and 2nd class is 19.9%. It would be in the best interest of the store to remove same day shipping and highlight their 2nd class or standard class shipping as the shipping modes for guests. 
+
+## 🛠️ Tools Used  
+- **Tableau**   
+
+## 🚀 How to Use  
+1. Click the **dashboard link** above.  
+2. Interact with filters and visualizations.  
+3. Explore the insights!   
+
+---
