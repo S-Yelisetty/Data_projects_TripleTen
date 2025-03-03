@@ -1,0 +1,23 @@
+# 📊 Power BI Project: Shopify App Analysis
+
+## 📌 Overview  
+You have been hired to review the landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites
+
+## 📂 Report Files  
+- 📥 **Download the Power BI Report:** [Project_Report.pbix](Project_Report.pbix)  
+- 📄 **View the PDF Report:** [Project_Report.pdf](Project_Report.pdf) *(if applicable)*  
+
+## 📈 Key Insights  
+- 🔹 **Insight 1:** Majority of ratings are above 4.0
+- 🔹 **Insight 2:** Fireapps are the most responsive developer 
+
+## 🛠️ Tools Used  
+- **Power BI**   
+
+## 🚀 How to Use  
+1. **Download** the `.pbix` file from the link above.  
+2. Open it in **Power BI Desktop**.  
+3. Interact with the dashboards and visualizations.  
+
+
+---
