@@ -1,0 +1,34 @@
+# 📊 Power BI Project: [Project Title]
+
+## 📌 Overview  
+You've been hired as a junior analyst for Zomato. Zomato is a multinational restaurant aggregator and food delivery company. As your first assignment in the onboarding process you’re given several test datasets to analyze the business performance of restaurants and customers registered in the service  
+
+## 📂 Report Files  
+- 📥 **Download the Power BI Report:** 
+- 📄 **View the PDF Report:** 
+
+## 📈 Key Insights  
+- 🔹 **Insight 1:** Expand High-Revenue Cuisine Offerings
+High-revenue restaurants focus on pizza, American snacks, and street food.
+Restaurants looking to boost sales should consider adding or emphasizing these items on their menus.  
+- 🔹 **Insight 2:** Optimize Location-Based Strategy
+Navrangpuri and Bareilly are revenue hotspots, particularly for Indian and dessert-based cuisines.
+Restaurants should explore expansion into these cities if they serve similar food styles.
+Electronic City, Bangalore, houses many of the most popular restaurants with Ice Cream and North Indian cuisines.
+If operating in this area, restaurants should leverage seasonal offers and marketing campaigns to boost brand awareness and drive traffic.
+- 🔹 **Insight 3:** Leverage Promotions to Increase Sales Volume
+The highest revenue restaurant (Domino’s) has $5M in sales, while other high-revenue places are around $1.9M.
+Promotional offers, bundle deals, and loyalty programs can drive up sales volume and boost revenue.
+
+
+## 🛠️ Tools Used  
+- **Power BI**  
+- **Other tools poweroint**
+
+## 🚀 How to Use  
+1. **Download** the `.pbix` file from the link above.  
+2. Open it in **Power BI Desktop**.  
+3. Interact with the dashboards and visualizations.  
+
+
+---
